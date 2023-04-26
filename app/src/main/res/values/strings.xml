@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MarketApp</string>
+    <string name="my_items">My Items</string>
+    <string name="exchange">Exchange</string>
+    <string name="profile">Profile</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="terms_and_conditions">TERMS AND CONDITIONS</string>
+    <string name="faq">FAQ</string>
+    <string name="support">SUPPORT</string>
+    <string name="created_by">Powered by Artem Kryvoshein</string>
+
+    <string name="welcome_text">Welcome! Please fill in your actual email address to create account.</string>
+    <string name="email">Email</string>
+    <string name="terms_of_use_and_privacy_policy">I\'ve read and accept the Terms of Use and the Privacy Policy</string>
+    <string name="special_offers">I agree to receive email newsletters and special offers</string>
+</resources>
